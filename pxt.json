@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.11.2"
     },
     "files": [
         "main.blocks",
